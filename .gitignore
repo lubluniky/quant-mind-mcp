@@ -124,7 +124,6 @@ dmypy.json
 
 # Project specific
 *.pdf
-research_papers/
 .DS_Store
 *.swp
 *.swo
